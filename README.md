@@ -58,7 +58,7 @@ STEP 5: OUTPUT VALIDATION
 Accuracy: 93.33%
 Macro F1 Score: 93.27%
 
-
+Features:
 
 • Load and understand a dataset — load_dataset() loads Iris, prints shape, class names, sample rows, and class balance.
 
